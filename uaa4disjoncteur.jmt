@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Hamidou</dc:creator>
+    <dc:title>&amp;#x003C;img src=&quot;../hot 5P/image hotpot/disjoncteur fiche technique.png&quot; alt=&quot;disjoncteur fiche technique.png&quot; title=&quot;disjoncteur fiche technique&quot; width=&quot;216&quot; height=&quot;219&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>&amp;#x003C;img src=&quot;../hot 5P/image hotpot/disjoncteur fiche technique.png&quot; alt=&quot;disjoncteur fiche technique.png&quot; title=&quot;disjoncteur fiche technique&quot; width=&quot;216&quot; height=&quot;219&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</title>
+
+<timer><seconds>240</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???
+</default-right-item>
+
+<pair>
+<left-item><text>&amp;#x003C;img src=&quot;../hot 5P/image hotpot/Symbole de sectionnement.png&quot; alt=&quot;Symbole de sectionnement.png&quot; title=&quot;Symbole de sectionnement&quot; width=&quot;21&quot; height=&quot;38&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Signifie que le dispositif int&amp;#x00E8;gre la fonction sectionneur</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;img src=&quot;../hot 5P/image hotpot/symbole disjoncteur magn&amp;#x00E9;to thermique.png&quot; alt=&quot;symbole disjoncteur magn&amp;#x00E9;to thermique.png&quot; title=&quot;symbole disjoncteur magn&amp;#x00E9;to thermique&quot; width=&quot;59&quot; height=&quot;114&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>La tension nominale d&apos;emploi</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;img src=&quot;../hot 5P/image hotpot/symbole PC disjoncteur.png&quot; alt=&quot;symbole PC disjoncteur.png&quot; title=&quot;symbole PC disjoncteur&quot; width=&quot;75&quot; height=&quot;30&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Repr&amp;#x00E9;sente l&apos;intensit&amp;#x00E9; maximum que l&apos;appareil peut couper sans qu&apos;il n&apos;y ait d&amp;#x00E9;t&amp;#x00E9;rioration</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>C</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>La courbe d&amp;#x00E9;termine le genre d&apos;appareil (r&amp;#x00E9;sistif,selfique...) sens&amp;#x00E9; &amp;#x00EA;tre prot&amp;#x00E9;g&amp;#x00E9;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>230V</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>C&apos;est la DDP qui appliqu&amp;#x00E9;e aux bornes, permettrait au dispositif de fonctionner de mani&amp;#x00E8;re optimale</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Legrand</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>C&apos;est la marque constructeur</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>20</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>C&apos;est la valeur de courant qui pourrait passer indifiniment dans l&apos;appareil sans qu&apos;il n&apos;y ait d&amp;#x00E9;clenchement: calibre</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>06020</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Cette seule indication permet au constructeur de retrouver toutes les caract&amp;#x00E9;ristiques du mat&amp;#x00E9;riel lors de ta commande</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle>UAA4 DISJONCTEUR</exercise-subtitle>
+<instructions>FAIRE CORREPONDRE CE QUI CONVIENT</instructions>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>1</questions-to-show>
+<shuffle-questions>0</shuffle-questions>
+<separate-javascript-file>0</separate-javascript-file>
+<next-caption>Next</next-caption>
+<delete-caption>Delete</delete-caption>
+<guess-correct>Correct! Well done.</guess-correct>
+<guess-incorrect>Sorry! Try again. Incorrect matches have been removed.</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Your score is </your-score-is>
+<correct-indicator>:-)</correct-indicator>
+<incorrect-indicator>X</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<times-up>Your time is over!</times-up>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Geneva,Arial,sans-serif</font-face>
+<font-size>small</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#00ffff</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>
